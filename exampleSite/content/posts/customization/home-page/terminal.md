@@ -22,7 +22,7 @@ Use `data/terminal/config.yaml` for the prompt, window title, startup command, a
 user: guest
 host: portfolio
 directory: "~"
-window_title: "guest@portfolio:~"
+window_title: "adriel@portfolio:~"
 auto_command: about
 builtins:
   - name: clear

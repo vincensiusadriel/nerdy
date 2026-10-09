@@ -1,7 +1,7 @@
 user: guest
 host: portfolio
 directory: "~"
-window_title: "guest@portfolio:~"
+window_title: "adriel@portfolio:~"
 auto_command: about
 builtins:
   - name: clear
